@@ -20,5 +20,5 @@ fn main() {
            Err(err)=>println!("{}",err)
         }
     }
-    disable_raw_mode().unwrap(); 
+    disable_raw_mode().unwrap();
 }
